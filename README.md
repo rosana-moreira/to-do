@@ -28,5 +28,5 @@ $ yarn
 # Execute a aplicação em modo de desenvolvimento
 $ yarn dev
 
-# O servidor do front-end inciará na porta:3000 - acesse <http://localhost:8080>
+# O servidor do front-end inciará na porta:8080 - acesse <http://localhost:8080>
 ```
