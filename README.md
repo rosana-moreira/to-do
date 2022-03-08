@@ -1,7 +1,7 @@
 # ToDo
 <h2>Descrição do Projeto</h2>
 <p align="center">
-Aplicação desenvolvida no primeiro desafio Ignite React da Rocketseat.
+Aplicação desenvolvida no desafio Ignite React da Rocketseat - Desafio 01 - Conceitos do React.
 </p>
 
 <h1 align="center">
